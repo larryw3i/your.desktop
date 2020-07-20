@@ -1,2 +1,2 @@
-# yourdesktop
-yourdesktop
+# your.desktop
+your.desktop
